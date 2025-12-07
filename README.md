@@ -20,7 +20,8 @@
 * Plank frontale: 3x30–40 sec
 * Side plank: 2x20–30 sec per lato
 
-#### Defaticamento / Stretching (5 min)
+#### Defaticamento / Stretching (5 min)
+
 * Stretching quadricipiti
 * Stretching glutei e anche
 * Stretching spalle e pettorali
