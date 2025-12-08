@@ -1,5 +1,7 @@
 # Allenamento Forza
 
+* [Drills](Drills.md)
+
 ## Schema settimanale base:
 
 * Giorno 1: Gambe + core
