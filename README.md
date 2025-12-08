@@ -124,5 +124,3 @@
 
 * Stretching completo: gambe, glutei, spalle, pettorali, schiena
 * Cat-cow: 5 cicli
-
-Durata stimata: ≈40–45 min
