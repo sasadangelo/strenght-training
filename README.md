@@ -1,6 +1,7 @@
 # Allenamento Forza
 
 * [Drills](Drills.md)
+* [Esercizi di Forza](Strength-Exercise.md)
 
 ## Schema settimanale base:
 
