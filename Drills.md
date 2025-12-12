@@ -12,6 +12,8 @@
 * Walking lunges / affondi camminati
 * Lunge with twist – affondo con torsione del busto
 * Squat a corpo libero lento – 8–10 ripetizioni
+* Side leg swings
+* Hip openers
 
 ## 2. Drills generici / corpo superiore
 
