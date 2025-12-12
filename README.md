@@ -58,6 +58,7 @@
 * Plank to push-up: 3x6–8
 * Mountain climbers: 3x20–30 sec
 * Superman hold: 3x20–30 sec
+* Piegamenti alla panca (tricipiti)
 
 #### Defaticamento / Stretching (5 min)
 
@@ -127,6 +128,7 @@
 #### Allenamento principale
 
 * Push-up: 3x10–12
+* Piegamenti alla panca (tricipiti)
 * Squat jump leggero: 3x8–10
 * Inverted row sotto tavolo: 3x8–10
 * Plank frontale: 3x30–40 sec
