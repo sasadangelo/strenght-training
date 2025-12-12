@@ -21,6 +21,7 @@
 * Jumping jacks: 1 min
 * Hip circles: 5 per lato
 * Arm circles: 10 avanti, 10 indietro
+* Side leg swings
 * Leg swings front/back – 8 per lato
 * Mini balzi / skipping leggero sul posto – 30 sec
 
@@ -33,6 +34,7 @@
 * Mountain climbers: 3x20–30 sec
 * Plank frontale: 3x30–40 sec
 * Calf raise: 3x20
+* Hip openers
 
 #### Defaticamento / Stretching (5 min)
 
@@ -59,6 +61,7 @@
 * Mountain climbers: 3x20–30 sec
 * Superman hold: 3x20–30 sec
 * Piegamenti alla panca (tricipiti)
+* Hip openers
 
 #### Defaticamento / Stretching (5 min)
 
