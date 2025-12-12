@@ -23,7 +23,7 @@
 * Inchworm / camminata mani a terra – 3–4 ripetizioni
 * Cat-cow – 5 cicli
 
-## 3. Mobilità anche / core
+## 3. Mobilità anche / core
 
 * Hip circles / cerchi anche – 5 per lato
 * Standing hip swings – oscillazioni gambe frontale e laterale
