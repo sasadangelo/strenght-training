@@ -33,6 +33,7 @@
 * Mountain climbers: 3x20–30 sec
 * Plank frontale: 3x30–40 sec
 * Side plank: 2x20–30 sec per lato
+* Calf raise: 3x20
 
 #### Defaticamento / Stretching (5 min)
 
@@ -72,8 +73,9 @@
 * Jumping jacks: 1 min
 * Hip circles: 5 per lato
 * Arm circles: 10 avanti, 10 indietro
-* Hip circles – 5 per lato
 * Leg swings left/right – 8 per lato
+* Walking lunges / affondi camminati
+* Calf raise: 3x20
 
 #### Allenamento principale
 
@@ -132,6 +134,7 @@
 * Plank frontale: 3x30–40 sec
 * Mountain climbers: 3x20–30 sec
 * Superman hold: 3x20–30 sec
+* Calf raise: 3x20
 
 #### Defaticamento / Stretching (5 min)
 
