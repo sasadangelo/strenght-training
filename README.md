@@ -14,7 +14,7 @@
 
 ## Settimana 1
 
-### Giorno 1 - Gambe + core
+### Giorno 1 - Gambe + core - 14/12/2025
 
 #### Riscaldamento (5 min)
 
@@ -42,6 +42,8 @@
 * Stretching glutei e anche
 * Stretching spalle e pettorali
 * Cat-cow per schiena
+
+#### Note: Peso 79.6
 
 ### Giorno 2: Corsa leggera + parte superiore
 
