@@ -43,7 +43,10 @@
 * Stretching spalle e pettorali
 * Cat-cow per schiena
 
-#### Note: Peso 79.6
+#### Note: 
+
+1. Peso 79.6
+2. Ero partito per fare 3 serie di ciascun eserciziom sono riuscito a farne 2
 
 ### Giorno 2: Corsa leggera + parte superiore
 
@@ -58,7 +61,7 @@
 #### Allenamento principale
 
 * Push-up: 2x10
-* Inverted row sotto tavolo: 2x8
+* Inverted row sotto tavolo: 3x8
 * Plank to push-up: 2x8
 * Mountain climbers: 2x20
 * Superman hold: 2x20–30 sec
@@ -71,7 +74,16 @@
 * Stretching dorsali e schiena
 * Cat-cow 5 cicli
 
-### Giorno 3 - Gambe + Core
+#### Note: 
+
+1. Peso 79.1
+2. Ero indolenzito a gambe e anche per gli esercizi di ieri
+3. Circonferenza 100 cm (ho una bella pancetta)
+4. Petto 102 cm (ho un po' di tette)
+
+### Giorno 3 - Riposo attivo (passeggiata)
+
+### Giorno 4 - Gambe + Core
 
 #### Riscaldamento (5 min)
 
@@ -95,7 +107,7 @@
 * Stretching quadricipiti, glutei, anche
 * Cat-cow per schiena
 
-### Giorno 4 - Corsa leggera + mobilità
+### Giorno 5 - Corsa leggera + mobilità
 
 #### Riscaldamento (3–5 min)
 
@@ -120,7 +132,7 @@
 * Stretching gambe, glutei, spalle
 * Respirazione profonda
 
-### Giorno 5 - Full body calisthenics
+### Giorno 6 - Full body calisthenics
 
 #### Riscaldamento (5 min)
 
@@ -145,3 +157,5 @@
 
 * Stretching completo: gambe, glutei, spalle, pettorali, schiena
 * Cat-cow: 5 cicli
+
+### Giorno 7 - Riposo attivo (bici)
